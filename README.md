@@ -1,1 +1,1 @@
-# S-P-index-NLP
+# S-and-P-index-NLP
